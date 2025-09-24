@@ -70,3 +70,7 @@
 
 ### Most Used Languages
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwj903&layout=compact)
+
+### Activity Graph
+- ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kwj903&theme=tokyo-night&hide_border=true&area=true)
+
