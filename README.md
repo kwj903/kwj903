@@ -66,10 +66,10 @@
 - HTMLl5
 - CSS
 - JavaScript
-
-### 기술 스택
 - Oracle DB
 - MY SQL
+
+### 기술 스택
 - Pandas
 - scikit-learn
 - PyTorch
