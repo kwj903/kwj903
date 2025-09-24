@@ -31,7 +31,7 @@
 ## 프로젝트 카탈로그
 
 ### 개인 흥미 프로젝트 레포지토리
-- [wj_automation_project](https://github.com/kwj903/wj_automation_project.git):
+- [wj_automation_project](https://github.com/kwj903/wj_automation_project.git):  
   반복되는 작업에 사용하는 시간을 줄이기 위해 자동화 시켜 효율적인 시간 관리를 하는 목적으로 만들어짐
 - [Test project](https://github.com/kwj903/TEST.git):  개인적 테스트 용도의 프로젝트
 
