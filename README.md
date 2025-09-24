@@ -43,7 +43,7 @@
 
 ### 사용 코딩언어
 - Python3
-- <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/c5d26c58-d61a-4b01-8317-ab25e6691cf1" /> = Java
+- Java
 - HTMLl5
 - CSS
 - JavaScript
@@ -59,8 +59,14 @@
 - Selenium
 - Docker
 - Django
-- Java Spring
+- Java Spring Boot
 - Fast API
 - JSP
 
 ## 깃허브 통계(스타, 커밋 그래프 위젯 삽입)
+
+### Git Stats
+- ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kwj903&show_icons=true&theme=radical)
+
+### Most Used Languages
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ID&layout=compact)
