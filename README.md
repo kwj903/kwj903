@@ -57,7 +57,6 @@
 - [ddit_finalProject](https://github.com/kwj903/ddit_finalProject.git):  대덕인재개발원 교육중 마지막 팀프로젝트로 인사관리시스템을 구현함
 - [cupraview_project](https://github.com/kwj903/cupraview_project.git):  빅데이터 분석기반 비즈니스 개발자 양성교육과정의 중간 미니 팀 프로젝로 컵라면 랭킹 시스템 플랫폼 웹앱 구현 프로젝트임 
 - [woogawooga_project](https://github.com/kwj903/woogawooga_project.git):  빅데이터 분석기반 비즈니스 개발자 양성교육과정의 최종 팀 프로젝트로 보이스피싱 탐지 시스템을 웹앱으로 구현한 프로젝트임
-- [woogawooga_project](https://github.com/kwj903/woogawooga_project.git):  빅데이터 분석기반 비즈니스 개발자 양성교육과정의 최종 팀 프로젝트로 보이스피싱 탐지 시스템을 웹앱으로 구현한 프로젝트임
 
 ## 배지/아이콘
 
